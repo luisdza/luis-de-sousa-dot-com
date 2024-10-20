@@ -1,0 +1,47 @@
+baseURL = 'https://www.luisdesousa.com/'
+languageCode = "en-us"
+title = "Luis de Sousa"
+theme = "PaperMod"
+enableRobotsTXT = true
+defaultContentLanguage = "en"
+[params]
+    author = "Luis de Sousa"
+    description = "Dreaming and creating."
+
+[params.homeInfoParams]
+    Title = "Hi there wave"
+    Content = "Can be Info, links, about..."
+
+[params.editPost]
+    URL = "https://github.com/luisdza/luis-de-sousa-dot-com"
+    Text = "Edit" # edit text
+    appendFilePath = true # to append file path to Edit link
+
+[menu]
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+[[menu.main]]
+    name = "Blog"
+    url = "/blog/"
+    weight = 2
+[[menu.main]]
+    name = "Tools"
+    url = "/tools/"
+    weight = 3
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 4
+[[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 5
+
+[taxonomies]
+    category = "categories"
+    tag = "tags"
+
+[minify]
+  minifyOutput = true
