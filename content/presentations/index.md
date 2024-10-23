@@ -51,6 +51,8 @@ My public speaking journey was significantly shaped during my time with Toastmas
 
 ## R
 - [SQL Saturday Johannesburg #785]()
+## Optimisation
+- [ORSSA 2018]
 
 # 2017
 
