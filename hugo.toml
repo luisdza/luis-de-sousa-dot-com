@@ -12,7 +12,30 @@ enableInlineShortcodes = true
 
 [params.homeInfoParams]
     Title = "Hi there! 👋"
-    Content = "Welcome to my blog 📝✨, a collection of my thoughts 💭, interests 🌟, and ideas 💡!"
+    Content = """
+        🙋‍♂️ I'm Luis de Sousa, 🇿🇦 based in Johannesburg, South Africa.
+        📝 This blog is a collection of my 💭 thoughts, 🌟 interests, and 💡 ideas.
+    """
+
+[[params.socialIcons]]
+    name = "linkedin"
+    url = 'https://www.linkedin.com/in/luisdza'
+
+[[params.socialIcons]]
+    name = "github"
+    url = 'https://www.github.com/luisdza'
+
+[[params.socialIcons]]
+    name = "twitter"
+    url = 'https://www.twitter.com/luis_de_sousa'
+
+[[params.socialIcons]]
+    name = "mastodon"
+    url = 'https://fosstodon.org/@Luisd'
+
+[[params.socialIcons]]
+    name = "RSS"
+    url = 'index.xml'
 
 [params.editPost]
     URL = "https://github.com/luisdza/luis-de-sousa-dot-com/tree/main/content"
@@ -37,13 +60,9 @@ enableInlineShortcodes = true
     url = "/cv/"
     weight = 4
 [[menu.main]]
-    name = "About"
-    url = "/about/"
-    weight = 5
-[[menu.main]]
     name = "Contact"
     url = "/contact/"
-    weight = 6
+    weight = 5
 
 [taxonomies]
     category = "categories"
