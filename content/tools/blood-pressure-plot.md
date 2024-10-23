@@ -1,5 +1,5 @@
 +++
-date = '2024-10-20T16:54:46+02:00'
+date = '2024-10-10T16:54:46+02:00'
 draft = false
 title = '🩺📊 Blood Pressure Plot'
 tags = ['Shinylive','RStats']

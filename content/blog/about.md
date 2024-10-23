@@ -1,10 +1,10 @@
 +++
 date = '2024-10-20T16:52:38+02:00'
 draft = false
-title = 'Nurturing Wisdom: A Lifelong Journey'
+title = '🌱✨Nurturing Wisdom: A Lifelong Journey'
 +++
 
-{{< figure src="../pics/cutekid.jpg" caption="Picture of my younger self (circa 1991)" >}}
+{{< figure src="/pics/cutekid.jpg" caption="Picture of my younger self (circa 1991)" >}}
 
 "Like plants, wisdom requires careful nurturing." – Luis de Sousa
 
