@@ -2,11 +2,9 @@
 date = '2025-05-30T07:50:37+02:00'
 draft = false
 title = 'Marketplace Mayhem Meets Miscommunication'
+[cover]
+    image = '/pics/marketplace_mayhem_neurodiversity.png'
 +++
-
-![Marketplace Mayhem Meets Miscommunication](/pics/marketplace_mayhem_neurodiversity.png)
-
----
 
 {{< youtube 8HXFurHCkP8 >}}
 
