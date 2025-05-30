@@ -11,7 +11,7 @@ title = 'Marketplace Mayhem Meets Miscommunication'
 🔗 [Watch on YouTube](https://www.youtube.com/watch?v=8HXFurHCkP8)
 
 ## 👋 Introduction
-In this hilarious comedy performance, Lou Wall, a multi-media stand-up comedian, recounts the story of trying to give away a free bed frame on Facebook Marketplace. What should have been a simple exchange turns into a chaotic saga when Eileen misinterprets pickup times, arrives at 5 a.m, steals a neighbour's bed, and sends increasingly bizarre messages with dramatic emoji usage.
+In this hilarious comedy performance, [Lou Wall](https://www.instagram.com/thelouwall/), a multi-media stand-up comedian, recounts the story of trying to give away a free bed frame on Facebook Marketplace. What should have been a simple exchange turns into a chaotic saga when Eileen misinterprets pickup times, arrives at 5 a.m., steals a neighbour's bed, and sends increasingly bizarre messages with dramatic emoji usage.
 
 After watching this gem from the Melbourne International Comedy Festival, I asked myself:
 
@@ -21,7 +21,7 @@ What if this whole chaotic exchange was **two people trying to get their needs m
 
 Suddenly, the story became more than comedy.
 
-It became a parable of digital miscommunication, revealing a deeply human aspect of a chaotic world - where expectations clash, systems fail, and nobody shares the same map.
+It became a parable of miscommunication, revealing a deeply human aspect of a chaotic world. Where expectations clash, systems fail, and nobody shares the same map.
 
 ## 🏗️ The Setup: Lou - Structured & Creative Neurodivergent
 Lou Wall transforms a chaotic online interaction into a **PowerPoint-powered pop musical**, revealing both brilliance and the exhaustion of managing overwhelming social chaos.
@@ -55,6 +55,10 @@ To Eileen, this is all **logically driven by emotional necessity**. The bed repr
 
 📌 What we're seeing isn't villainy or madness - it's **two neurodivergent people misunderstanding each other**, speaking different neurocognitive "languages" in a **neurotypical system with no translation layer**.
 
+This perfectly illustrates the **Double Empathy Problem**. The idea is that miscommunication isn’t due to a deficit in one person but a mutual lack of shared context and understanding between people with different neurotypes.
+
+Rather than one being "socially broken", both are **struggling to empathise across neurocognitive differences.**
+
 ## 📊 Trait Radar Chart: Lou vs. Eileen
 To visualise this divergence in cognitive profiles:
 
@@ -83,7 +87,7 @@ This moment is telling and poetic, the system that failed to support two neurodi
 It’s like the software clapping for the bug report that became a viral TED Talk.
 
 ## 🧩 Final Thoughts: A Neurodivergent Parable
-Through a neurodiversity-affirming lens, this story is more than just a quirky comedy. It's a parable of miscommunication where both Lou and Eileen strive to be understood in their own way.
+Through a neurodiversity-affirming lens, this story is more than just a quirky comedy; it is a poignant exploration of human experiences. It's a parable of miscommunication where both Lou and Eileen strive to be understood in their own way.
 
 > "Two people, each navigating the world with a unique operating system, collide in a system that offers no tech support."
 
