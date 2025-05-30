@@ -78,24 +78,28 @@ What makes this story so funny - and painfully relatable - is that it could *eas
 
 ## 👊 The Platform Becomes the Punchline
 
-To add the meta-ironic cherry on top, the official Facebook account commented on Lou’s [Instagram post](https://www.instagram.com/p/DIUhTSZKNPr/) of the video:
+To add the **meta-ironic cherry on top**, the official Facebook account commented on Lou’s [Instagram post](https://www.instagram.com/p/DIUhTSZKNPr/) of the video:
 
 > “Gives standing ovation”
 
-This moment is telling and poetic, the system that failed to support two neurodivergent users applauds the story of its own failure - not by improving, but by engaging performatively.
+This moment is **telling and poetic**, the **system that failed to support two neurodivergent users applauds the story of its own failure** - not by improving, but by **engaging performatively.**
 
 It’s like the software clapping for the bug report that became a viral TED Talk.
 
 ## 🧩 Final Thoughts: A Neurodivergent Parable
-Through a neurodiversity-affirming lens, this story is more than just a quirky comedy; it is a poignant exploration of human experiences. It's a parable of miscommunication where both Lou and Eileen strive to be understood in their own way.
+Through a **neurodiversity-affirming lens**, this story is more than just a quirky comedy; it is a **poignant exploration of human experiences.** It's a **parable of miscommunication** where both Lou and Eileen **strive to be understood in their own way.**
 
 > "Two people, each navigating the world with a unique operating system, collide in a system that offers no tech support."
 
-This underscores the deep human need for recognition and validation. Lou's public performance can be seen as a defence mechanism, a way to regain control over a bewildering experience. At the same time, Eileen's abrupt block reflects a protective withdrawal in response to perceived betrayal.
+This underscores the **deep human need for recognition and validation.** Lou's public performance can be seen as a defence mechanism, a way to regain control over a bewildering experience. At the same time, Eileen's abrupt block reflects a protective withdrawal in response to perceived betrayal.
 
-In the end, what might seem like a comedic sketch is a deeply human drama about the struggle for connection in a world that often fails to understand or support neurodivergent modes of being.
+In the end, what might seem like a **comedic sketch** is a **deeply human drama** about the **struggle for connection** in a world that often **fails to understand or support neurodivergent modes of being.**
 
-It's hilarious. It isn't always clear. It's a little tragic.
+It's **hilarious**.
+
+It’s a bit of a **mystery**.
+
+It's a little **tragic**.
 
 But above all - **it's deeply human**.
 
