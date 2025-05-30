@@ -6,7 +6,7 @@ title = '🧠 Marketplace Mayhem Meets Miscommunication'
 
 ![Marketplace Mayhem Meets Miscommunication](/pics/marketplace_mayhem_neurodiversity.png)
 
-🎥 *Lou Wall gives the craziest Facebook Marketplace story yet*
+🎥 *Multi-media stand-up comedian Lou Wall gives the craziest Facebook Marketplace story yet*
 
 🔗 [Watch the full video here before reading below](https://www.youtube.com/watch?v=8HXFurHCkP8)
 
@@ -22,7 +22,9 @@ Suddenly, the story became more than comedy.
 It became a parable for digital miscommunication, revealing a deeply human thing happening in a chaotic world - where expectations clash, systems fail, and nobody brings the same map.
 
 ## 🎭 The Setup: Lou - the Structured & Creative Neurodivergent
-Lou Wall transforms a chaotic online interaction into a **PowerPoint-powered pop musical**, revealing both brilliance and burnout. Her behaviours reflect traits common in autistic or OCD-style cognition:
+Lou Wall transforms a chaotic online interaction into a **PowerPoint-powered pop musical**, revealing both brilliance and the exhaustion of managing overwhelming social chaos.
+
+. Her behaviours reflect traits common in autistic or OCD-style cognition:
 - ✅ **Plans ahead**: Converts the event into a structured musical narrative
 - ✅ **Manages ambiguity**: Clearly states "It's free" and sets boundaries
 - ✅ **Assumes systems work logically**: Expects Facebook Marketplace to follow rules
