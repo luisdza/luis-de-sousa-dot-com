@@ -4,6 +4,8 @@ draft = false
 title = '🧠 Marketplace Mayhem Meets Miscommunication'
 +++
 
+![Marketplace Mayhem Meets Miscommunication](/pics/marketplace_mayhem_neurodiversity.png)
+
 🎥 *Lou Wall gives the craziest Facebook Marketplace story yet*
 
 🔗 [Watch the full video here before reading below](https://www.youtube.com/watch?v=8HXFurHCkP8)
