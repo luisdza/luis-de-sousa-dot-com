@@ -6,6 +6,8 @@ title = 'Marketplace Mayhem Meets Miscommunication'
     image = '/pics/marketplace_mayhem_neurodiversity.png'
 +++
 
+Start by watching the video below, then dive into the post.
+
 {{< youtube 8HXFurHCkP8 >}}
 
 🔗 [Watch on YouTube](https://www.youtube.com/watch?v=8HXFurHCkP8)
