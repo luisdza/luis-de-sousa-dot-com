@@ -12,6 +12,10 @@ My public speaking journey was significantly shaped during my time with Toastmas
 
 **What Excited me this year**
 
+# 2025
+## DuckDB
+- [Duck Safari @ BSides Joburg 2025](https://pretalx.com/bsides-joburg-2025/talk/WET9RK/)
+
 # 2024
 ## Microsoft Graph RAG
 - [Cape Town MS Developer User Group](./cptmsdug)
