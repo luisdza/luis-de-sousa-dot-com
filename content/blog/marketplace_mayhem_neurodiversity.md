@@ -4,6 +4,7 @@ draft = false
 title = 'Marketplace Mayhem Meets Miscommunication'
 [cover]
     image = '/pics/marketplace_mayhem_neurodiversity.png'
+    alt = 'Two figures on phones separated by a line, one calm with a sign, the other upset with symbols.'
 +++
 
 Start by watching the video below, then dive into the post.
@@ -12,7 +13,7 @@ Start by watching the video below, then dive into the post.
 
 🔗 [Watch on YouTube](https://www.youtube.com/watch?v=8HXFurHCkP8)
 
-## 👋 Introduction
+## Introduction
 In this hilarious comedy performance, [Lou Wall](https://www.instagram.com/thelouwall/), a multi-media stand-up comedian, recounts the story of trying to give away a free bed frame on Facebook Marketplace. What should have been a simple exchange turns into a chaotic saga when Eileen misinterprets pickup times, arrives at 5 a.m., steals a neighbour's bed, and sends increasingly bizarre messages with dramatic emoji usage.
 
 After watching this gem from the Melbourne International Comedy Festival, I asked myself:
@@ -25,7 +26,7 @@ Suddenly, the story became more than comedy.
 
 It became a parable of miscommunication, revealing a deeply human aspect of a chaotic world. Where expectations clash, systems fail, and nobody shares the same map.
 
-## 🏗️ The Setup: Lou - Structured & Creative Neurodivergent
+## The Setup: Lou - Structured & Creative Neurodivergent
 Lou Wall transforms a chaotic online interaction into a **PowerPoint-powered pop musical**, revealing both brilliance and the exhaustion of managing overwhelming social chaos.
 
 Her behaviours reflect traits common in autistic or OCD-style cognition:
@@ -36,7 +37,7 @@ Her behaviours reflect traits common in autistic or OCD-style cognition:
 
 🌀 Under stress, Lou seeks **control through structure** - setting exact pickup times, delegating roles ("Ask for Tim"), and translating chaos into art.
 
-## ⚡ The Twist: Eileen - Emotive, Hyperfocused Neurodivergent
+## The Twist: Eileen - Emotive, Hyperfocused Neurodivergent
 Eileen bursts into the story like a whirlwind of **emotional urgency and literal interpretation**, suggesting traits associated with ADHD, rejection sensitivity, or borderline emotional styles:
 
 - 🕔 **Time blindness**: Arrives at 5 a.m., misinterpreting "See you at 5"
@@ -61,7 +62,7 @@ This perfectly illustrates the **Double Empathy Problem**. The idea is that misc
 
 Rather than one being "socially broken", both are **struggling to empathise across neurocognitive differences.**
 
-## 📊 Trait Radar Chart: Lou vs. Eileen
+## Trait Radar Chart: Lou vs. Eileen
 To visualise this divergence in cognitive profiles:
 
 ![Radar Chart: Lou vs. Eileen](/pics/neurodivergent-trait-profiles-Lou-vs-Eileen.png)
@@ -72,13 +73,13 @@ This chart shows:
 
 They're not broken - just **differently calibrated**.
 
-## 🔄 The Tragic Comedy of Neurodivergence
+## The Tragic Comedy of Neurodivergence
 What makes this story so funny - and painfully relatable - is that it could *easily happen to any of us*:
 - 😇 Neither person is "wrong" - both are **operating in good faith**
 - 📉 Facebook Marketplace, like many platforms, **assumes neurotypical behavior**: vague time, soft expectations, polite emotional distance
 - 🎭 Instead, we get a chaotic duet of **raw emotion vs. rigid planning**
 
-## 👊 The Platform Becomes the Punchline
+## The Platform Becomes the Punchline
 
 To add the **meta-ironic cherry on top**, the official Facebook account commented on Lou’s [Instagram post](https://www.instagram.com/p/DIUhTSZKNPr/) of the video:
 
@@ -88,7 +89,7 @@ This moment is **telling and poetic**, the **system that failed to support two n
 
 It’s like the software clapping for the bug report that became a viral TED Talk.
 
-## 🧩 Final Thoughts: A Neurodivergent Parable
+## Final Thoughts: A Neurodivergent Parable
 Through a **neurodiversity-affirming lens**, this story is more than just a quirky comedy; it is a **poignant exploration of human experiences.** It's a **parable of miscommunication** where both Lou and Eileen **strive to be understood in their own way.**
 
 > "Two people, each navigating the world with a unique operating system, collide in a system that offers no tech support."
