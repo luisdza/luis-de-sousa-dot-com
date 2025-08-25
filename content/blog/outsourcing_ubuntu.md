@@ -4,6 +4,7 @@ draft = false
 title = 'Outsourcing Ubuntu: The Case for Africa’s Open Source Infrastructure'
 [cover]
     image = '/pics/outsourcing_ubuntu.png'
+    alt = 'Wooden kraal on grassy coast with small house and city skyline across the sea.'
 +++
 
 > **As AI accelerates, the closure of South Africa’s TENET mirror exposes cracks in Africa’s digital sovereignty.**
@@ -28,4 +29,4 @@ The decommissioning of TENET’s mirror service should not mark the quiet end of
 
 ---
 
-The real question is not whether mirrors are technically necessary. It is whether Africa intends to be at the heart of open-source innovation - or forever remain on its margins.
+The real question is not whether mirrors are technically necessary. It is whether Africa intends to be at the heart of open-source innovation - or forever remain on its margins. Got ideas? Let’s make it happen.
