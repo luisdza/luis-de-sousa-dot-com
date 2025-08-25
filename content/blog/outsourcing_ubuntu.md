@@ -1,5 +1,5 @@
 +++
-date = '2025-08-28T07:00:00+02:00'
+date = '2025-08-25T07:00:00+02:00'
 draft = false
 title = 'Outsourcing Ubuntu: The Case for Africa’s Open Source Infrastructure'
 [cover]
