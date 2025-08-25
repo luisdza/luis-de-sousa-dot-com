@@ -22,6 +22,8 @@ The timing is symbolic. The **Johannesburg City Library** has just reopened afte
 
 > Yes, bandwidth is cheaper, cables are faster, and global distribution is more efficient. But **efficiency is not sovereignty**. If Africa is serious about shaping its digital future, it cannot depend entirely on servers in the US, Europe, or China. It needs its own mirrors, repositories, and infrastructure — rooted here, for our communities.
 
+Some argue that **contribution** – *writing code, starting projects, and growing communities* – matters more than infrastructure. And they are right: without African commits, open source here remains **consumption, not creation**. But **mirrors are not a distraction from contribution; they are its foundation**. A local mirror *lowers the barrier to entry*, *trains capacity in running infrastructure*, and *signals that Africa is not just downloading from the global commons but helping to host it*. In the spirit of **Ubuntu**, contribution is not only code – it is also the *resilience and shared provision of the commons itself*.
+
 The decommissioning of TENET’s mirror service should not mark the quiet end of an era. It should spark a renewed conversation among universities, government, and industry about why we must invest in our own digital commons and claim a seat in the global ecosystem.
 
 ---
