@@ -9,7 +9,7 @@ title = 'Outsourcing Ubuntu: The Case for Africa’s Open Source Infrastructure'
 
 > **As the AI race accelerates, the closure of South Africa’s TENET mirror exposes cracks in Africa’s digital sovereignty.**
 > 
-> In Silicon Valley and Shenzhen, AI is fed by vast open-source repositories and mirrored infrastructure. In Africa, one of the continent’s few mirrors has just gone dark. The decision raises uncomfortable questions: **can Africa participate as a peer in the global tech ecosystem, or will it remain dependent on servers in the US, Europe, and China?**
+> In Silicon Valley and Shenzhen, the AI boom is powered by vast open-source repositories and mirrored infrastructure. In Africa, one of the continent’s few mirrors has just gone dark. The decision raises uncomfortable questions: **can Africa participate as a peer in the global tech ecosystem, or will it remain dependent on servers in the US, Europe, and China?**
 
 Earlier this month, **TENET** - the non-profit created to serve South African universities and research institutions - announced it will decommission its long-standing mirror service ([mirror.ac.za](https://mirror.ac.za/)). For years, it has hosted **Linux distributions, CRAN (for the R programming language), and other open-source repositories**. The reasons given are practical: *ageing hardware, declining local demand, and stronger international connectivity*. On paper, few will notice the change.
 
