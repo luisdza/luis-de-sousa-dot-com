@@ -7,7 +7,7 @@ title = 'Outsourcing Ubuntu: The Case for Africa’s Open Source Infrastructure'
     alt = 'Wooden kraal on grassy coast with small house and city skyline across the sea.'
 +++
 
-> **As AI race accelerates, the closure of South Africa’s TENET mirror exposes cracks in Africa’s digital sovereignty.**
+> **As the AI race accelerates, the closure of South Africa’s TENET mirror exposes cracks in Africa’s digital sovereignty.**
 > 
 > In Silicon Valley and Shenzhen, AI is fed by vast open-source repositories and mirrored infrastructure. In Africa, one of the continent’s few mirrors has just gone dark. The decision raises uncomfortable questions: **can Africa participate as a peer in the global tech ecosystem, or will it remain dependent on servers in the US, Europe, and China?**
 
