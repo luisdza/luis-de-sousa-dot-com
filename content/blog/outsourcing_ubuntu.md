@@ -15,16 +15,18 @@ For years, TENET hosted local copies of **Linux distributions, CRAN (for the R p
 
 > Mirrors are more than speed and convenience — they are **trust anchors**. They prove our code is genuine. They keep Africa working when undersea cables snap, turning fragility into strength. And they embody a digital spirit of **Ubuntu**: we build together, and shared infrastructure keeps knowledge open to all.
 
-In March 2024, four major undersea cables — WACS, ACE, SAT-3, and MainOne — snapped, disrupting connectivity across 13 African countries. For days, whole regions were throttled. The lesson is clear: if every byte comes from overseas, a single cut can silence half a continent.
+In March 2024, four major undersea cables — WACS, ACE, SAT-3, and MainOne — snapped, disrupting connectivity across 13 African countries. For days, whole regions were throttled. The lesson is clear: if every byte comes from overseas, a single cut can silence half a continent. [*Bloomberg*](https://www.bloomberg.com/news/articles/2024-03-15/massive-africa-internet-outage-could-takes-weeks-months-to-fix)
 
-Across Africa, technologists such as **Ish Sookun** – the only African serving on the openSUSE board and a long-time advocate for Linux mirrors – have long argued for this infrastructure. 
+Across Africa, technologists such as **Ish Sookun** — the only African serving on the openSUSE board and a long-time advocate for Linux mirrors — have long argued for this infrastructure.
 
 > **Without local mirrors, Africa risks outsourcing its digital commons.**
 Without local mirrors, developers must fetch code from Europe, Asia, or the US. This is more than a technical nuisance. It **entrenches dependency**, **undermines sovereignty**, and **sidelines Africa from the global conversation on open source**.
 
 **This isn’t only Africa’s fight.**
 
-In 2021, ASREN, WACREN, and UbuntuNet Alliance signed a Memorandum of Understanding with Latin America’s LA Referencia and RedCLARA, committing to **"build capacity and infrastructure in our regions rather than rely on centralised infrastructure hosted elsewhere."** ([AfricaConnect3](https://africaconnect3.net/africa-and-latin-america-agree-to-closer-collaboration-around-open-science/)) It was a clear statement: sovereignty is regional, and resilience comes from hosting at home, not outsourcing abroad. It’s proof that open science infrastructure - including local mirrors - is not just local resistance, but part of a growing global movement for **digital equity**.
+In 2021, ASREN, WACREN, and UbuntuNet Alliance signed a Memorandum of Understanding with Latin America’s LA Referencia and RedCLARA, committing to **"build capacity and infrastructure in our regions rather than rely on centralised infrastructure hosted elsewhere."** [*AfricaConnect3*](https://africaconnect3.net/africa-and-latin-america-agree-to-closer-collaboration-around-open-science/)
+
+It was a clear statement: sovereignty is regional, and resilience comes from hosting at home, not outsourcing abroad. It’s proof that open science infrastructure - including local mirrors - is not just local resistance, but part of a growing global movement for **digital equity**.
 
 The timing is symbolic. The **Johannesburg City Library** has just reopened after five years of repairs, a reminder of how access to knowledge strengthens communities. Imagine suggesting that because Kindle and Google Books exist, Johannesburg no longer needs a library. We would reject that argument immediately. Yet this is precisely the logic being used to dismantle our **digital commons**.
 
