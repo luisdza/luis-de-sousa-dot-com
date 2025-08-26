@@ -60,6 +60,4 @@ The real question is not whether mirrors are technically necessary. It is whethe
 
 **Building mirrors is not nostalgia. It is sovereignty. It is resilience. It is reciprocity.**
 
-**It is urgent.**
-
-The world will not wait. And it cannot wait. **The time to act is now.**
+The world will not wait. **The question is simple: will Africa?**
