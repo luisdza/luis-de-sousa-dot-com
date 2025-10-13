@@ -62,7 +62,7 @@ What you bring back isn't something to show, but something to **absorb**, thread
 Stop chasing the fantasy of unconditional acceptance.
 Start building something better: **boundaries that create safety, commitment that enables growth, and the emotional maturity to step back when needed**, not to punish, but to protect what you've built inside yourself.
 
-The river doesn't apologize for its nature. The rock doesn't compromise its edges.
+The river doesn't apologise for its nature. The rock doesn't compromise its edges.
 Yet together, they create something neither could achieve alone: **beauty, movement, life**.
 
 Your boundaries aren't selfish. **They're sacred.**
