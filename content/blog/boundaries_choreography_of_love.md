@@ -4,7 +4,7 @@ draft = false
 title = 'Why Boundaries Are the Choreography of Love'
 [cover]
     image = '/pics/boundaries_choreography_of_love.png'
-    alt = 'Wooden kraal on grassy coast with small house and city skyline across the sea.'
+    alt = 'A calm river flows past smooth rocks and a red-leaved tree in warm tones.'
 +++
 
 Here's what nobody tells you about relationships: **total freedom kills connection**.
