@@ -17,9 +17,9 @@ The best relationships grow from **thoughtful boundaries**, not endless flexibil
 
 In partner dance, from Argentine tango to bachata, salsa, and contact improvisation, the **river and rock metaphor** describes how connection works. 
 
-Let's set the record straight: this isn't one partner as order, the other as chaos. Not a tug-of-war between control and wildness. 
+Let's set the record straight: this isn't **one partner as order, the other as chaos**. Not a **tug-of-war** between control and wildness. 
 
-It's **two partners taking turns**. Each becomes rock or river as needed, **co-creating rhythm together**. A dance, not a clash.
+It's **two partners taking turns**. Each becomes rock or river as needed, **co-creating rhythm together**. A **dance**, not a **clash**.
 
 It's not about gender. It's about **energy**: you **lead**, you **follow**, you **hold steady**, you **flow**.
 
